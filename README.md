@@ -12,6 +12,7 @@ it means, that there is no .venv(virtual environment) folder and you need to eit
 -to create a new django project run ‘py -m django startproject <project-name> .’
 ‘python3’ in mac, ‘python’ in windows
 -to run django server, ‘python manage.py runserver’
+
 </p>
 
 <br>
