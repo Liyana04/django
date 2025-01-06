@@ -24,6 +24,7 @@ it means, that there is no .venv(virtual environment) folder and you need to eit
 when error no modules name ‘pandas’or anything not found, need to run ‘pip install pandas’ in vscode
 jupyter short-cut, ‘a’ to create new sell above, ‘b’ to create new cell below, double click ‘d’ will delete the cell, shift + tab to show tooltip,
 if run pip then stumble open this error
+<a href-"https://www.youtube.com/watch?v=_uQrJ0TkZlc&t=15403s&pp=ygUOcHl0aG9uIDYgaG91cnM%3D" target="_blank">Python 6 hours</a>
 </p>
 
 <br>
