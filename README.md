@@ -24,3 +24,7 @@ jupyter short-cut, ‘a’ to create new sell above, ‘b’ to create new cell 
 if run pip then stumble open this error
 </p>
 
+<br>
+<b>How to integrate jupyter model with django</b>
+<a href="https://www.youtube.com/watch?v=rNhVBv0i4os&t=1953s&ab_channel=RaunakJoshi" target="_blank">Visit how to integrate jupyter model with django</a>
+
