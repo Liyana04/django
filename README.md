@@ -23,6 +23,8 @@ it means, that there is no .venv(virtual environment) folder and you need to eit
 
 <b>How to use jupyter?</b>
 <p>
+-run 'jupyter notebook' command
+
 when error no modules name ‘pandas’or anything not found, need to run ‘pip install pandas’ in vscode
 jupyter short-cut, ‘a’ to create new sell above, ‘b’ to create new cell below, double click ‘d’ will delete the cell, shift + tab to show tooltip,
 if run pip then stumble open this error.
