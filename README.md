@@ -11,7 +11,7 @@ This is a simple exercise for python and django using sqlite3 as database
 <p>
 -use pip install django
 pip : The term 'pip' is not recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again. At line:1 char:1 + pip install django
-it means, that there is no .venv(virtual environment) folder and you need to either find a way tofirst add a new python file>click save, then add .venv folder ‘py -m venv venv‘ then you will see python 3.13.3 (.venv) at the bottom of vscode, then kill the terminal then open a new one, then can simply run any ‘pip’ command. can follow this or if above don’t work, then can run ‘py -m ensurepip --default-pip’ then run ‘py -m pip install django’
+it means, that there is no .venv(virtual environment) folder and you need to either find a way tofirst add a new python file>click save, then add .venv folder ‘py -m venv venv‘ then you will see python 3.13.3 (.venv) at the bottom of vscode, then kill the terminal then open a new one, then can simply run any ‘pip’ command. can follow <a href="https://www.youtube.com/watch?v=GZbeL5AcTgw" target="_blank">this</a> or if above don’t work, then can run ‘py -m ensurepip --default-pip’ then run ‘py -m pip install django’
 -to create a new django project run ‘py -m django startproject <project-name> .’
 ‘python3’ in mac, ‘python’ in windows
 
